@@ -1,14 +1,9 @@
 # uMario_Jakowski
-uMario C++/SDL2 Game by Łukasz Jakowski
+uMario C++/SDL2 Game by Janek Olszak
 
-Author: Łukasz Jakowski
-
-WWW: http://lukaszjakowski.pl
-Email: jakowskidev@gmail.com
+Author: Janek Olszak
 
 EXE and DLL - Download: http://lukaszjakowski.pl/DL/uMario.zip
-
-YouTube video: https://www.youtube.com/watch?v=jya5He7KFsE
 
 
 It is my first game made in C++.
